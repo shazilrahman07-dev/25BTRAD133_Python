@@ -1,6 +1,6 @@
-# Name: Shazil Abdul Rahman AIDE-B[cite: 11]
-# USN: 25BTRAD133[cite: 11]
-# Mini Project: Supermarket Bill Generator[cite: 11]
+# Name: Shazil Abdul Rahman AIDE-B
+# USN: 25BTRAD133
+# Mini Project: Supermarket Bill Generator
 
 print("=" * 45)
 print("         SUPERMARKET BILL GENERATOR         ")
